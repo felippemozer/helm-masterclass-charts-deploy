@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   myfirstchart:
   - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2024-08-29T23:45:51.769298617Z"
+    description: Signed Charts
+    digest: dbf17df0289094d47aa85de12c2a7c86bbf464e8ecec041437e72572479eeb40
+    name: myfirstchart
+    type: application
+    urls:
+    - https://github.com/felippemozer/helm-masterclass-charts-deploy/releases/download/myfirstchart-0.2.0/myfirstchart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 0.1.0
     created: "2024-08-29T23:43:13.828978941Z"
     description: Signed Charts
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/felippemozer/helm-masterclass-charts-deploy/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-29T23:43:13.82898896Z"
+generated: "2024-08-29T23:45:51.769307133Z"
